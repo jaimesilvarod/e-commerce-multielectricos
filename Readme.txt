@@ -1,4 +1,4 @@
-Welcome to e-Commerce Website from Multieléctricos del Centro SAS
+Welcome to e-Commerce Website for Multieléctricos del Centro SAS
 
 Developer: Ingeniero Jaime Silva
 Estudiante de la MSc in Computer Software Engineering
